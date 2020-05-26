@@ -3,4 +3,4 @@ upload users
 
 
 
-This sccript use connetct wp-config
+This sccript use connect wp-config
