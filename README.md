@@ -1,5 +1,5 @@
 # php.script-upload-users
-upload users form xml file to db 
+upload users from xml file to db 
 
 
 
